@@ -203,14 +203,14 @@ python analysis/correlation_analysis.py
 ---
 
 ## Authors
-**Team Members:**
-- **Syed Mohammad Samiul Ahmed**
-- **Shaik Mahammad Galeeb**
-- **Shaik Khasim Basha**
-- **Shaik Rehaman**
+**Project Team (VIT-AP University):**
+- **Syed Mohammad Samiul Ahmed** — [@Md-SAMI-7](https://github.com/Md-SAMI-7)
+- **Shaik Khasim Basha** — [@Basha-co-eng](https://github.com/Basha-co-eng)
+- **Shaik Mahammad Galeeb** — [@galeeb9397](https://github.com/galeeb9397)
+- **Shaik Rehaman** — [@RehamanShaik-01](https://github.com/RehamanShaik-01)
 
 **Project Guide:**
-- **Dr. Lalitha Kumari P**
+- **Dr. Lalitha Kumari P**, School of Computer Science and Engineering (SCOPE), VIT-AP University
 - School of Computer Science and Engineering (SCOPE)
 - **VIT-AP University**
 
